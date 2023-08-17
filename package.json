@@ -88,7 +88,7 @@
   },
   "dependencies": {
     "@vscode/debugprotocol": "1.56.0",
-    "buffer": "6.0.0",
+    "buffer": "6.0.3",
     "path-browserify": "^1.0.1",
     "stream-http": "^3.2.0",
     "url": "^0.11.0"
