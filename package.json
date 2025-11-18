@@ -87,7 +87,7 @@
     "webpack-cli": "^6.0.0"
   },
   "dependencies": {
-    "@vscode/debugprotocol": "1.56.0",
+    "@vscode/debugprotocol": "1.68.0",
     "buffer": "6.0.3",
     "path-browserify": "^1.0.1",
     "stream-http": "^3.2.0",
